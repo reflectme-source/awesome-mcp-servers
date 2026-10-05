@@ -363,6 +363,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
+- [AcqPath](https://github.com/reflectme-source/acqpath-distribution) - Remote MCP endpoint for signed, timestamped observations of machine-readable source-rights declarations for RAG, AI input, indexing, training and search. Endpoint: https://api.getacqpath.com/mcp
+
 > Integration with AI and machine learning services.
 
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
